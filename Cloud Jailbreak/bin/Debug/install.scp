@@ -1,0 +1,5 @@
+option batch on
+open root:alpine@127.0.0.1
+/sbin/install
+close
+exit
